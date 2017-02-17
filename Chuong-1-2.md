@@ -27,3 +27,4 @@ JRE là môi trường để chạy các ứng dụng java
 javac file_name.java && java file_name
 
 # 4. Làm thế nào để tạo ra một bản protable JAVA có thể chạy mà không cần cài đặt? (đa phần các ứng dụng Java đều có yêu cầu cài sẵn môi trường Java)
+# 5. Theo quan điểm riêng của bạn, vì sao Java đang đứng top 1 của các ngôn ngữ lập trình? (theo Tiobe)
